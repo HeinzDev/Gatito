@@ -20,18 +20,18 @@ and
 
 For an even smoother experience, I suggest creating a symbolic link in a custom folder that's part of your $PATH. Here's how to do it:
 
-1. Open your ~/.bashrc file for editing:
+1. Open your ~/.bashrc file:
 
 ```bash
 nano ~/.bashrc
 ```
 
-2. Add the following line to the file, replacing /my/custom/folder with the actual path to your custom folder:
+2. Add the following line to the file, replacing `/my/custom/folder` with the actual path to your custom folder:
 
 ```bash
 export PATH=$PATH:/my/custom/folder
 ```
-3. Create the symbolic link replacing /path/to/gatito.sh with the path to the script and /my/custom/folder/gatito with your custom folder's path:
+3. Create the symbolic link replacing `/path/to/gatito.sh` with the path to the script and `/my/custom/folder/gatito` with your custom folder's path:
 
 ```bash
 ln -s /path/to/gatito.sh /my/custom/folder/gatito
