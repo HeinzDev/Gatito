@@ -2,6 +2,8 @@
 
 Just a cute terminal ascii art display for people who like cats.
 
+<img src="https://i.imgur.com/ubpo9OZ.png">
+
 ## Running⚡
 
 Remember to activate the execute permissions:
@@ -39,13 +41,13 @@ ln -s /path/to/gatito.sh /my/custom/folder/gatito
 
 Now you can display the ASCII art with just:
 
-```bash
-gatito
-```
+<img src="https://i.imgur.com/ALDxSwc.png">
 
-Enjoy the cuteness! 😸
+
 
 ## Thanks✨
+
+Enjoy the cuteness! 😸
 
 <div id="header" align="center">
   <a href="https://github.com/HeinzDev/">
