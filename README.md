@@ -2,7 +2,7 @@
 
 Just a cute terminal ascii art display for people who like cats.
 
-<img src="https://i.imgur.com/ubpo9OZ.png">
+<img src="https://i.imgur.com/rX90lPb.png">
 
 ## Running⚡
 
@@ -41,7 +41,7 @@ ln -s /path/to/gatito.sh /my/custom/folder/gatito
 
 Now you can display the ASCII art with just:
 
-<img src="https://i.imgur.com/ALDxSwc.png">
+<img src="https://i.imgur.com/MhQbeTB.png">
 
 
 
